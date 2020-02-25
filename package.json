@@ -1,7 +1,7 @@
 {
   "name": "expense-tracker",
   "version": "0.1.0",
-  "homepage": "https://yassinerzk.github.io/Expense-Tracker-react-",
+  "homepage": "https://yassinerzk.github.io/Expense-Tracker-react",
   "private": true,
   "dependencies": {
     "cra-template": "1.0.2",
